@@ -4,3 +4,9 @@ task assemble {
     }
 }
 
+task check {
+    doLast {
+        println 'Hello Gradle Check!'
+    }
+}
+
