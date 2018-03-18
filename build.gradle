@@ -1,6 +1,6 @@
-task hello {
+task assemble {
     doLast {
-        println 'Hello Gradle'
+        println 'Hello Gradle Assemble!'
     }
 }
 
